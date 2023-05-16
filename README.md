@@ -24,10 +24,9 @@ Use Adaptive thresholding to segment the image.
 Use Otsu's method to segment the image.
 
 ## Program
-
-```python
 ### Register number : 212221230039 
 ### Name : JANANI R
+```python
 # Load the necessary packages
 import cv2
 import numpy as np
